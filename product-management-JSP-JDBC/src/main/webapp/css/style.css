@@ -1,0 +1,79 @@
+
+a{
+	font-size:35px;
+	margin-right:25px;
+}
+
+
+
+.dv{
+	text-align:center;
+	margin-top: 50px;
+}
+.msg{
+	font-size: 55px;
+}
+
+.taf{
+	margin:auto;
+	margin-top:30px;
+	border:3px solid orange;
+	background-color: gray;
+	color:white;
+	font-size: 23px;
+}
+
+.tb{
+	font-size:20px;
+	width: 350px;
+}
+.bt{
+	font-size:20px;
+	padding:6px 13px;
+	cursor:pointer;
+	border-radius:5px;
+}
+.tal{
+	margin:auto;
+	margin-top:30px;
+	border:3px solid orange;
+	background-color: gray;
+	color:white;
+	font-size: 23px;
+	border-collapse: collapse;
+}
+.th{
+	font-size:30px;
+	width: 350px;
+	background-color:orange;
+	border: 2px solid white;
+}
+.thh{
+	font-size:30px;
+	background-color:gray;
+	width:50%;
+	border: 2px solid white;
+}
+.tdd{
+	font-size:30px;
+	background-color:white;
+	color:black;
+	border: 2px solid black;
+}
+.pd{
+	padding:15px;
+}
+.center{
+	text-align:center;
+	background-color:white;
+	color:black;
+}
+.dvv{
+	text-align:center;
+	font-size: 34px;
+}
+
+td{
+	font-size:23px;
+	padding:23px;
+}
